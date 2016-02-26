@@ -24,7 +24,7 @@ function loadOptions() {
   var $timeFormatCheckbox = $('#timeFormatCheckbox');
 
   if (localStorage.backgroundColor) {
-    $backgroundColorPicker[0].value = localStorage.backgroundColor;
+       $backgroundColorPicker[0].value = localStorage.backgroundColor;
        $backgroundColorPicker1[0].value = localStorage.backgroundColor1; 
        $backgroundColorPicker2[0].value = localStorage.backgroundColor2; 
        $backgroundColorPicker3[0].value = localStorage.backgroundColor3; 
@@ -36,6 +36,9 @@ function loadOptions() {
 function getAndStoreConfigData() {
   var $backgroundColorPicker = $('#backgroundColorPicker');
   var $backgroundColorPicker1 = $('#backgroundColorPicker1');
+  var $backgroundColorPicker2 = $('#backgroundColorPicker2');
+  var $backgroundColorPicker3 = $('#backgroundColorPicker3');
+
   var $timeFormatCheckbox = $('#timeFormatCheckbox');
 
   var options = {
