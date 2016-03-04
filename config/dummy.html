@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel='stylesheet' type='text/css' href='bower_components/pebble-slate/dist/css/slate.min.css'>
+  <link rel='stylesheet' type='text/css' href='css/style.css'>
+</head>
+<body>
+  <div class='item-container'>
+    <h1 class='title'>Watchface<br>Configuration Page</h1>
+  </div>
+
+  <div class='item-container'>
+    <div class='item-container-content'>
+      <div class='item'>
+        Use this configuration page to choose the settings you would like
+        applied to this app.
+      </div>
+    </div>
+  </div>
+
+  <div class='item-container'>
+    <div class='item-container-header'>Customizability</div>
+    <div class='item-container-content'>
+      <label class='item'>
+        Battery Background Color
+        <input id='backgroundColorPicker' type='text' class='item-color item-color-sunny' value='#000000'>
+      </label>
+      
+      <label class='item'>
+        Date Background Color
+        <input id='backgroundColorPicker1' type='text' class='item-color item-color-sunny' value='#000000'>
+      </label>
+
+      <label class='item'>
+        Time Background Color
+        <input id='backgroundColorPicker2' type='text' class='item-color item-color-sunny' value='#000000'>
+      </label>
+
+      <label class='item'>
+        Health Background Color
+        <input id='backgroundColorPicker3' type='text' class='item-color item-color-sunny' value='#000000'>
+      </label>
+      <label class='item'>
+        24-Hour Format
+        <input id='timeFormatCheckbox' type='checkbox' class='item-checkbox' checked>
+      </label>
+    </div>
+    <div class='item-container-footer'>
+      These settings only change on the watch after you click save.
+    </div>
+  </div>
+
+  <div class='item-container'>
+    <div class='button-container'>
+      <input id='submitButton' type='button' class='item-button' value='SUBMIT'>
+    </div>
+  </div>
+
+
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+  <input type="hidden" name="hosted_button_id" value="F9T96HAHBZ6RU">
+  <table>
+    <tr><td><input type="hidden" name="on0" value="Donation">Donation</td></tr>
+    <tr><td>
+    <select name="os0">
+	<option value="Kind supporter">Kind supporter $1.00 USD</option>
+	<option value="Good Egg">Good Egg $2.00 USD</option>
+	<option value="Cream of the crop">Cream of the crop $5.00 USD</option>
+	<option value="Diamond in the rough">Diamond in the rough $10.00 USD</option>
+	<option value="Absolute champion">Absolute champion $20.00 USD</option>
+    </select> 
+  </td></tr>
+  </table>
+  <input type="hidden" name="currency_code" value="USD">
+  <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+  <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+  </form>
+  <script src='bower_components/pebble-slate/dist/js/slate.min.js'></script>
+  <script src='js/main.js'></script>
+</body>
+</html>
