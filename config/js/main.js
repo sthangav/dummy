@@ -22,13 +22,15 @@ function loadOptions() {
 
 
   var $timeFormatCheckbox = $('#timeFormatCheckbox');
+  var $wearawareCheckbox  = $('#wearawareCheckbox');
 
   if (localStorage.backgroundColor) {
        $backgroundColorPicker[0].value = localStorage.backgroundColor;
        $backgroundColorPicker1[0].value = localStorage.backgroundColor1; 
        $backgroundColorPicker2[0].value = localStorage.backgroundColor2; 
        $backgroundColorPicker3[0].value = localStorage.backgroundColor3; 
-    $timeFormatCheckbox[0].checked = localStorage.twentyFourHourFormat === 'true';
+       $timeFormatCheckbox[0].checked   = localStorage.twentyFourHourFormat === 'true';
+       $wearawareCheckbox[0].checked    = localStorage.wearaware === 'true';
   }
 
 }
@@ -41,13 +43,16 @@ function getAndStoreConfigData() {
 
   var $timeFormatCheckbox = $('#timeFormatCheckbox');
 
+  var  $wearawareCheckbox = $('#wearawareCheckbox'); 
+
   var options = {
     backgroundColor: $backgroundColorPicker.val(),
     backgroundColor1: $backgroundColorPicker1.val(),
     backgroundColor2: $backgroundColorPicker2.val(),
     backgroundColor3: $backgroundColorPicker3.val(),
 
-    twentyFourHourFormat: $timeFormatCheckbox[0].checked
+    twentyFourHourFormat: $timeFormatCheckbox[0].checked,
+    wearaware: $wearawareCheckbox[0].checked
   };
 
   localStorage.backgroundColor = options.backgroundColor;
@@ -57,6 +62,8 @@ function getAndStoreConfigData() {
 
   localStorage.twentyFourHourFormat = options.twentyFourHourFormat;
 
+  localStorage.wearaware = options.wearaware;
+   
   console.log('Got options: ' + JSON.stringify(options));
   return options;
 }
