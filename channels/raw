@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1, Ufx Music
+http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/playlist.m3u8
+#EXTINF:-1,IN:Zee Telegu
+http://boxiptv.noip.us:9998/live/testt/testt/1494.m3u8
+#EXTINF:-1,IN:Zee Tamil
+http://boxiptv.noip.us:9998/live/testt/testt/1495.m3u8
+#EXTINF:-1,IN:Zee Cinema
+http://boxiptv.noip.us:9998/live/testt/testt/1511.m3u8
+#EXTINF:-1,IN: Sony
+http://boxiptv.noip.us:9998/live/testt/testt/1509.m3u8
+#EXTINF:-1,IN:Zing
+http://boxiptv.noip.us:9998/live/testt/testt/1512.m3u8
+#EXTINF:-1,IN:Zee Cinema
+http://boxiptv.noip.us:9998/live/testt/testt/1511.m3u8
+#EXTINF:-1,IN:Zee Anmol
+http://boxiptv.noip.us:9998/live/testt/testt/1504.m3u8
+#EXTINF:-1,IN: Zee_Smile
+http://boxiptv.noip.us:9998/live/testt/testt/1505.m3u8
