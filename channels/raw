@@ -5,6 +5,12 @@ http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/playlist.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/1494.m3u8
 #EXTINF:-1,IN:Zee Tamil
 http://boxiptv.noip.us:9998/live/testt/testt/1495.m3u8
+#EXTINF:-1,IN:Zee Hindi
+http://boxiptv.noip.us:9998/live/testt/testt/1496.m3u8
+#EXTINF:-1,IN:Asia Net Malayalam
+http://boxiptv.noip.us:9998/live/testt/testt/1504.m3u8
+#EXTINF:-1,IN:Star Plus
+http://boxiptv.noip.us:9998/live/testt/testt/1505.m3u8
 #EXTINF:-1,IN:Zee Cinema
 http://boxiptv.noip.us:9998/live/testt/testt/1511.m3u8
 #EXTINF:-1,IN: Sony
@@ -15,8 +21,6 @@ http://boxiptv.noip.us:9998/live/testt/testt/1512.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/1511.m3u8
 #EXTINF:-1,IN:Zee Anmol
 http://boxiptv.noip.us:9998/live/testt/testt/1504.m3u8
-#EXTINF:-1,IN: Zee_Smile
-http://boxiptv.noip.us:9998/live/testt/testt/1505.m3u8
 #EXTINF:-1,UK:BT Live
 http://boxiptv.noip.us:9998/live/testt/testt/1943.m3u8
 #EXTINF:-1,UK:CNN Live
@@ -51,3 +55,46 @@ http://boxiptv.noip.us:9998/live/testt/testt/515.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/538.m3u8
 #EXTINF:-1,UK:Box Nation
 http://boxiptv.noip.us:9998/live/testt/testt/560.m3u8
+#EXTINF:-1,UK:Disney Cinema
+http://boxiptv.noip.us:9998/live/testt/testt/566.m3u8
+#EXTINF:-1,UK:Disney Junior
+http://boxiptv.noip.us:9998/live/testt/testt/628.m3u8
+#EXTINF:-1,UK:Food
+http://boxiptv.noip.us:9998/live/testt/testt/570.m3u8
+#EXTINF:-1,NAT GEO World
+http://boxiptv.noip.us:9998/live/testt/testt/572.m3u8
+#EXTINF:-1,D Globe
+http://boxiptv.noip.us:9998/live/testt/testt/573.m3u8
+#EXTINF:-1, National Geographic HD
+http://boxiptv.noip.us:9998/live/testt/testt/576.m3u8
+#EXTINF:-1, Cartoon Networks
+http://boxiptv.noip.us:9998/live/testt/testt/685.m3u8
+#EXTINF:-1, Euro Sports
+http://boxiptv.noip.us:9998/live/testt/testt/617.m3u8
+#EXTINF:-1, Canal Deportes
+http://boxiptv.noip.us:9998/live/testt/testt/618.m3u8
+#EXTINF:-1, Discovery History
+http://boxiptv.noip.us:9998/live/testt/testt/629.m3u8
+#EXTINF:-1, Fox Cartoon
+http://boxiptv.noip.us:9998/live/testt/testt/632.m3u8
+#EXTINF:-1, Cinema
+http://boxiptv.noip.us:9998/live/testt/testt/633.m3u8
+#EXTINF:-1, Sky Sports
+http://boxiptv.noip.us:9998/live/testt/testt/635.m3u8
+#EXTINF:-1, BT Sports
+http://boxiptv.noip.us:9998/live/testt/testt/636.m3u8
+#EXTINF:-1, Movies
+http://boxiptv.noip.us:9998/live/testt/testt/639.m3u8
+#EXTINF:-1, Movies4Men
+http://boxiptv.noip.us:9998/live/testt/testt/679.m3u8
+#EXTINF:-1, Disney XD Cartoon
+http://boxiptv.noip.us:9998/live/testt/testt/684.m3u8
+#EXTINF:-1, UnExpalined Week
+http://boxiptv.noip.us:9998/live/testt/testt/707.m3u8
+#EXTINF:-1, Blooomberg politics
+http://boxiptv.noip.us:9998/live/testt/testt/732.m3u8
+#EXTINF:-1, WWE Championship
+http://boxiptv.noip.us:9998/live/testt/testt/756.m3u8
+
+
+
