@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1,IN:Cartoon Nito
+http://boxiptv.noip.us:9998/live/testt/testt/502.m3u8
+#EXTINF:-1,UK:Disney Junior
+http://boxiptv.noip.us:9998/live/testt/testt/628.m3u8
+#EXTINF:-1, Fox Cartoon
+http://boxiptv.noip.us:9998/live/testt/testt/632.m3u8
+#EXTINF:-1, Cartoon Networks
+http://boxiptv.noip.us:9998/live/testt/testt/685.m3u8
 #EXTINF:-1, Ufx Music
 http://live.wmncdn.net/ufx/378846f78998168446c173d7055d2653.sdp/playlist.m3u8
 #EXTINF:-1,IN:Zee Telegu
@@ -33,8 +41,6 @@ http://boxiptv.noip.us:9998/live/testt/testt/1946.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/474.m3u8
 #EXTINF:-1,IN:Fox Comedy
 http://boxiptv.noip.us:9998/live/testt/testt/486.m3u8
-#EXTINF:-1,IN:Cartoon Nito
-http://boxiptv.noip.us:9998/live/testt/testt/502.m3u8
 #EXTINF:-1,UK:Historic
 http://boxiptv.noip.us:9998/live/testt/testt/505.m3u8
 #EXTINF:-1,UK:Historic
@@ -57,8 +63,6 @@ http://boxiptv.noip.us:9998/live/testt/testt/538.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/560.m3u8
 #EXTINF:-1,UK:Disney Cinema
 http://boxiptv.noip.us:9998/live/testt/testt/566.m3u8
-#EXTINF:-1,UK:Disney Junior
-http://boxiptv.noip.us:9998/live/testt/testt/628.m3u8
 #EXTINF:-1,UK:Food
 http://boxiptv.noip.us:9998/live/testt/testt/570.m3u8
 #EXTINF:-1,NAT GEO World
@@ -67,16 +71,12 @@ http://boxiptv.noip.us:9998/live/testt/testt/572.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/573.m3u8
 #EXTINF:-1, National Geographic HD
 http://boxiptv.noip.us:9998/live/testt/testt/576.m3u8
-#EXTINF:-1, Cartoon Networks
-http://boxiptv.noip.us:9998/live/testt/testt/685.m3u8
 #EXTINF:-1, Euro Sports
 http://boxiptv.noip.us:9998/live/testt/testt/617.m3u8
 #EXTINF:-1, Canal Deportes
 http://boxiptv.noip.us:9998/live/testt/testt/618.m3u8
 #EXTINF:-1, Discovery History
 http://boxiptv.noip.us:9998/live/testt/testt/629.m3u8
-#EXTINF:-1, Fox Cartoon
-http://boxiptv.noip.us:9998/live/testt/testt/632.m3u8
 #EXTINF:-1, Cinema
 http://boxiptv.noip.us:9998/live/testt/testt/633.m3u8
 #EXTINF:-1, Sky Sports
@@ -95,6 +95,3 @@ http://boxiptv.noip.us:9998/live/testt/testt/707.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/732.m3u8
 #EXTINF:-1, WWE Championship
 http://boxiptv.noip.us:9998/live/testt/testt/756.m3u8
-
-
-
