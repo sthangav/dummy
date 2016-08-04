@@ -95,3 +95,11 @@ http://boxiptv.noip.us:9998/live/testt/testt/707.m3u8
 http://boxiptv.noip.us:9998/live/testt/testt/732.m3u8
 #EXTINF:-1, WWE Championship
 http://boxiptv.noip.us:9998/live/testt/testt/756.m3u8
+#EXTINF:-1, Radio Rock
+http://hls1.addictradio.net/addictrock_aac_hls/playlist.m3u8
+#EXTINF:-1, Radio Star
+http://hls1.addictradio.net/addictstar_aac_hls/playlist.m3u8
+#EXTINF:-1, Radio Alternative
+http://hls1.addictradio.net/addictalternative_aac_hls/playlist.m3u8
+#EXTINF:-1, Radio Lounge
+http://hls1.addictradio.net/addictlounge_aac_hls/playlist.m3u8
